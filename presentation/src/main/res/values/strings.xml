@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">Confirm</string>
+    <string name="loading">Loading</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="details_title">Image details</string>
+    <string name="details_description">Do you want to see the details of the image?</string>
+    <string name="search_placeholder">Search…</string>
+    <string name="avatar_content_description">user avatar</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Error has been occurred</string>
+    <string name="error_message_from_cache">Error has been occurred \n and data is shown from cache</string>
+    <string name="user_name">User: %1$s</string>
+    <string name="likes">Likes: %1$d</string>
+    <string name="downloads">Downloads: %1$d</string>
+    <string name="comments">Comments: %1$d</string>
+
+</resources>
